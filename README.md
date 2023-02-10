@@ -11,7 +11,7 @@
 
 #### How to run the code
 - Run pip install
-- Run python 
+- Run python interference_removal
 
 
 
